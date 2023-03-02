@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xmmken.GitHub.io</id>
+    <title>徐明名</title>
+    <updated>2023-03-02T14:00:38.767Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xmmken.GitHub.io"/>
+    <link rel="self" href="https://xmmken.GitHub.io/atom.xml"/>
+    <subtitle>设计是为了解决问题而生的，再美的设计，如果不能解决问题毫无用处。</subtitle>
+    <logo>https://xmmken.GitHub.io/images/avatar.png</logo>
+    <icon>https://xmmken.GitHub.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 徐明名</rights>
+    <entry>
+        <title type="html"><![CDATA[可视化大屏]]></title>
+        <id>https://xmmken.GitHub.io/post/ke-shi-hua-da-ping/</id>
+        <link href="https://xmmken.GitHub.io/post/ke-shi-hua-da-ping/">
+        </link>
+        <updated>2023-03-02T13:12:50.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://xmmken.GitHub.io/post-images/1677763039284.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1677763042733.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[养老机构院长端App]]></title>
+        <id>https://xmmken.GitHub.io/post/yang-lao-ji-gou-yuan-chang-duan-app/</id>
+        <link href="https://xmmken.GitHub.io/post/yang-lao-ji-gou-yuan-chang-duan-app/">
+        </link>
+        <updated>2023-03-02T13:09:42.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://xmmken.GitHub.io/post-images/1677762673064.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1677762712995.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1677762725063.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1677762745596.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富商通 - H5]]></title>
+        <id>https://xmmken.GitHub.io/post/fu-shang-tong-h5/</id>
+        <link href="https://xmmken.GitHub.io/post/fu-shang-tong-h5/">
+        </link>
+        <updated>2019-07-30T02:19:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>富商通是一款服务于园区企业的一站式服务平台。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>富商通是一款服务于园区企业的一站式服务平台。</p>
+<!-- more -->
+<p><img src="https://xmmken.GitHub.io/post-images/1564457476629.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1564457482714.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atom Design（原子设计）的思考]]></title>
+        <id>https://xmmken.GitHub.io/post/atom-designyuan-zi-she-ji-de-si-kao/</id>
+        <link href="https://xmmken.GitHub.io/post/atom-designyuan-zi-she-ji-de-si-kao/">
+        </link>
+        <updated>2019-07-25T07:32:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>Atom Design 这个概念很早就有了，那么在 Sketch 中如何应用呢？分到怎样的组件才算原子呢？样式和组件该怎样分配呢？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Atom Design 这个概念很早就有了，那么在 Sketch 中如何应用呢？分到怎样的组件才算原子呢？样式和组件该怎样分配呢？</p>
+<!-- more -->
+<p><img src="https://xmmken.GitHub.io/post-images/1564454486591.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1564454492117.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设计工作中对于团队之间的资源共享优化]]></title>
+        <id>https://xmmken.GitHub.io/post/guan-yu-wo-zai-she-ji-gong-zuo-zhong-dui-yu-tuan-dui-zhi-jian-de-zi-yuan-gong-xiang-you-hua/</id>
+        <link href="https://xmmken.GitHub.io/post/guan-yu-wo-zai-she-ji-gong-zuo-zhong-dui-yu-tuan-dui-zhi-jian-de-zi-yuan-gong-xiang-you-hua/">
+        </link>
+        <updated>2019-07-08T10:20:09.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在设计过程中，经常会遇到团队文件、字体、图标等资源共享之间的问题。下面我根据我的经验列了一些软件和网站的列表，可以解决大部分的共享问题。加速团队之间的设计效率，提高后续设计修改替换的可维护性。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>在设计过程中，经常会遇到团队文件、字体、图标等资源共享之间的问题。下面我根据我的经验列了一些软件和网站的列表，可以解决大部分的共享问题。加速团队之间的设计效率，提高后续设计修改替换的可维护性。</p>
+</blockquote>
+<!-- more -->
+<p><img src="https://xmmken.GitHub.io/post-images/1563375437269.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563375442686.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563376493333.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人上线项目 - 奇密 App]]></title>
+        <id>https://xmmken.GitHub.io/post/ge-ren-xiang-mu-qi-mi-app/</id>
+        <link href="https://xmmken.GitHub.io/post/ge-ren-xiang-mu-qi-mi-app/">
+        </link>
+        <updated>2019-07-08T09:26:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>[ 奇密 ] 是目前功能最强大、最方便的 iOS 端 Keepass客户端。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>[ 奇密 ] 是目前功能最强大、最方便的 iOS 端 Keepass客户端。</p>
+<!-- more -->
+<p><img src="https://xmmken.GitHub.io/post-images/1562810859136.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1562810876934.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1562810880527.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1562810883203.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563460918883.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1562810889219.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563466416378.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563466419376.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563466423546.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1563466426996.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上线项目 - 数字园区 App]]></title>
+        <id>https://xmmken.GitHub.io/post/shang-xian-xiang-mu-shu-zi-yuan-qu-app/</id>
+        <link href="https://xmmken.GitHub.io/post/shang-xian-xiang-mu-shu-zi-yuan-qu-app/">
+        </link>
+        <updated>2019-07-08T09:25:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>数字园区是一款专业的产业园区运营管理协同软件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>数字园区是一款专业的产业园区运营管理协同软件。</p>
+<!-- more -->
+<p><img src="https://xmmken.GitHub.io/post-images/1563507030384.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1564454684055.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小程序 - 创业大富豪]]></title>
+        <id>https://xmmken.GitHub.io/post/xiao-cheng-xu-zhi-hui-da-fu-hao/</id>
+        <link href="https://xmmken.GitHub.io/post/xiao-cheng-xu-zhi-hui-da-fu-hao/">
+        </link>
+        <updated>2019-06-28T04:09:47.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xmmken.GitHub.io/post-images/1561991352503.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphic Design - 集商平面]]></title>
+        <id>https://xmmken.GitHub.io/post/ping-mian-she-ji-zuo-pin/</id>
+        <link href="https://xmmken.GitHub.io/post/ping-mian-she-ji-zuo-pin/">
+        </link>
+        <updated>2019-06-18T16:26:43.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="集商平面作品">集商平面作品</h2>
+<p><img src="https://xmmken.GitHub.io/post-images/1561708631348.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1561708662939.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphic Design - 手机邀请函]]></title>
+        <id>https://xmmken.GitHub.io/post/graphic-design-shou-ji-yao-qing-han/</id>
+        <link href="https://xmmken.GitHub.io/post/graphic-design-shou-ji-yao-qing-han/">
+        </link>
+        <updated>2019-06-18T15:29:40.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xmmken.GitHub.io/post-images/1561995546231.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphic Design - 电商平面]]></title>
+        <id>https://xmmken.GitHub.io/post/graphic-design-dian-shang-ping-mian/</id>
+        <link href="https://xmmken.GitHub.io/post/graphic-design-dian-shang-ping-mian/">
+        </link>
+        <updated>2019-06-18T15:27:33.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="电商平面作品">电商平面作品</h2>
+<p><img src="https://xmmken.GitHub.io/post-images/1561708683975.jpg" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1562848483737.jpg" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1561708694611.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[86LINKS 设计]]></title>
+        <id>https://xmmken.GitHub.io/post/86links-she-ji/</id>
+        <link href="https://xmmken.GitHub.io/post/86links-she-ji/">
+        </link>
+        <updated>2019-06-18T09:46:57.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://xmmken.GitHub.io/post-images/1560851365856.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1560851370240.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1560851374280.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1560851383801.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1560851390218.png" alt="" loading="lazy"><br>
+<img src="https://xmmken.GitHub.io/post-images/1560851394694.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design - 微投屏产品下载介绍页设计]]></title>
+        <id>https://xmmken.GitHub.io/post/wei-tou-ping-app-chan-pin-xia-zai-jie-shao-ye-she-ji/</id>
+        <link href="https://xmmken.GitHub.io/post/wei-tou-ping-app-chan-pin-xia-zai-jie-shao-ye-she-ji/">
+        </link>
+        <updated>2019-06-18T09:44:54.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xmmken.GitHub.io/post-images/1560851155009.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TV Design - 微投屏 APP]]></title>
+        <id>https://xmmken.GitHub.io/post/wei-tou-ping-app-tv-duan/</id>
+        <link href="https://xmmken.GitHub.io/post/wei-tou-ping-app-tv-duan/">
+        </link>
+        <updated>2019-06-17T06:12:26.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xmmken.GitHub.io/post-images/1562045499558.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Design - 微投屏 APP]]></title>
+        <id>https://xmmken.GitHub.io/post/wei-tou-ping-app-yi-dong-duan/</id>
+        <link href="https://xmmken.GitHub.io/post/wei-tou-ping-app-yi-dong-duan/">
+        </link>
+        <updated>2019-06-17T06:10:13.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://xmmken.GitHub.io/post-images/1562045510592.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
